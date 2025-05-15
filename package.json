@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://oyester254.github.io/Home",
+  "homepage": "https://oyester254.github.io/Artalis",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
